@@ -1,0 +1,20 @@
+body {
+    background-image: url('img/bg.gif');
+    background-color: black;
+    color: white;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;  /* Center horizontally */
+    align-items: center;      /* Center vertically */
+}
+
+.container {        
+    width: 300px;
+    padding: 10px;
+    background-color: rgba(29, 53, 160, 0.22); /* Use RGBA for transparency */
+    border: 1px solid rgba(29, 53, 160, 0.22); 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    text-align: center;
+}
