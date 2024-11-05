@@ -142,3 +142,12 @@ body {
 .navbar a:hover {
     text-decoration: underline; 
 }
+.inner-box a {
+    color: #e2dcb7;
+    text-decoration: none;
+}
+
+.inner-box a:hover {
+    text-decoration: underline;
+}
+
