@@ -150,4 +150,8 @@ body {
 .inner-box a:hover {
     text-decoration: underline;
 }
+.collapsible {
+    user-select: none;
+    transition: transform 0.4s ease, color 0.4s ease;
+}
 

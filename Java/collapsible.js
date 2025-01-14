@@ -1,3 +1,5 @@
+// Meowing Greatness Enterprises - Why are you here?
+
 document.querySelectorAll('.collapsible').forEach(button => {
     button.addEventListener('click', () => {
         const content = button.nextElementSibling;
